@@ -42,7 +42,7 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-  href="https://drive.google.com/file/d/1vufi3wMPjd8PsgJ5BwW-uJ6Hxk49xV3J/view?usp=sharing"
+  href="https://drive.google.com/file/d/19P0MNrC8UCUqJWJpMUHHnQcs1IRHbdS-/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="download-link-button"
